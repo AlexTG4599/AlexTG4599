@@ -4,5 +4,5 @@
 Один
 Два
 Три
-
-<пробел><пробел><пробел><пробел>print 'Hello, World!'
+    print 'Hello, World!'
+    https://github.com/AlexTG4599/AlexTG4599/blob/master/ekuEluV2xvM.jpg
